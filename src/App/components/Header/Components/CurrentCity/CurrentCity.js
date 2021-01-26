@@ -1,6 +1,6 @@
 import './CurrentCity.scss';
 const CurrentCity = () => (
-    <div className="header__current">
+    <div className="current__city">
         <h1>Melbourne</h1>
     </div>
 )
