@@ -1,5 +1,6 @@
+import Content from './components/Content/Content'
 const App = () => (
-    <div>Hello World</div>
-)
+    <Content />
+)    
 
 export default App;

@@ -1,0 +1,18 @@
+.otherCities__cityButton {
+    display:flex;
+    flex-direction: row;
+    text-align: left;
+    align-items: center;
+    background-color: transparent;
+    border: 0;
+    h3 {
+        font-weight: 400;
+        width: 120px;
+        letter-spacing: 1px;
+    }
+    div {
+        font-size: 1.25em;
+        color: rgba(0,0,0,.5);
+    }
+    img {margin-left: 1rem;}
+}
