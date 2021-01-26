@@ -1,0 +1,19 @@
+.header__current {
+    display: flex;
+    flex-direction: row;
+    padding:64px 0;
+    background-image: url(https://i.imgur.com/GhQZhaO.jpg);
+    background-size: cover;
+    border-top-left-radius: 32px;
+    border-top-right-radius: 32px;
+    color:#fff;
+    position: relative;
+    &--bottom {
+        background-color: rgba(0,0,0,.5);
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        height: 1.5rem;
+    }
+}
