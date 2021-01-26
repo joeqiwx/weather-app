@@ -1,0 +1,9 @@
+.weather__content {
+    display:flex;
+    flex-direction: row;
+    padding: 36px 0;
+    &--divider{
+        width: 3px;
+        background-color: rgba(0,0,0,0.1);
+    }
+}
